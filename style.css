@@ -1,0 +1,147 @@
+.container{
+    width: 500px;
+    height: 415px;
+    border: 1px solid black;
+}
+.topnav{
+    width: inherit;
+    height: 75px;
+    border: 1px solid black;
+    margin: auto;
+    display: flex;
+}
+.nav1{
+    height: inherit;
+    width: 250px;
+    border: 1px solid black;
+}
+.nav1 h3{
+    margin-left: 75px;
+}
+.nav2{
+    height: inherit;
+    width: 250px;
+    border: 1px solid black;
+    display: flex;
+}
+.city1{
+    height: inherit;
+    width: 56px;
+    border: 1px solid black;
+}
+.city2{
+    height: inherit;
+    width: 56px;
+    border: 1px solid black;
+}
+.city3{
+    height: inherit;
+    width: 56px;
+    border: 1px solid black;
+}
+.row1{
+    width: 350px;
+    height: 50px;
+    border: 1px solid black;
+    margin: auto;
+    display: flex;
+}
+.row1a{
+    height: inherit;
+    width: 175px;
+    border: 1px solid black;
+}
+.row1b{
+    height: inherit;
+    width: 175px;
+    border: 1px solid black;
+}
+.row2{
+    width: 350px;
+    height: 175px;
+    border: 1px solid black;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.column{
+    width: 75px;
+    height: 150px;
+    border: 1px solid black;
+    margin-top: 10px;
+    display: block;
+}
+.columna{
+    border: 1px solid black;
+    width: inherit;
+    height: 25px;
+    text-align: center;
+}
+.columna p{
+    position: relative;
+    bottom: 15px;
+}
+.columnb{
+    border: 1px solid black;
+    width: inherit;
+    height: 75px;
+}
+.columnc{
+    border: 1px solid black;
+    width: inherit;
+    height: 25px;
+    text-align: center;
+}
+.columnc p{
+    font-size: 10px;
+}
+.columnd{
+    border: 1px solid black;
+    width: inherit;
+    height: 20px;
+    display: flex;
+    text-align: center;
+}
+.columnd p{
+    font-size: 10px;
+    position: relative;
+    bottom: 8px;
+}
+.hightemp{
+    height: inherit;
+    width: 37px;
+    border: 1px solid black;
+}
+.lowtemp{
+    height: inherit;
+    width: 37px;
+    border: 1px solid black;
+}
+.bottommessage{
+    width: 350px;
+    height: 75px;
+    border: 1px solid black;
+    margin: auto;
+    display: flex;
+}
+.col1{
+    height: inherit;
+    width: 75px;
+    border: 1px solid black;
+}
+.col2{
+    height: inherit;
+    width: 200px;
+    border: 1px solid black;
+}
+.col3{
+    height: inherit;
+    width: 75px;
+    border: 1px solid black;
+}
+.col1 img{
+    height: 60px;
+    width: 60px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
